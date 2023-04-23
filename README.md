@@ -1,5 +1,5 @@
 # ML_oficinas_Madrid-
-En este proyecto vamos a tratar de encontrar un modelo de Machine Learning supervisado que sea capaz de predecir el precio de una oficina en las ciudades de Madrid y Barcelona.
+En este proyecto vamos a tratar de encontrar un modelo de Machine Learning supervisado que sea capaz de predecir el precio de una oficina en las ciudades de Madrid y Barcelona con datos de idealista desde 2021 hasta 2023 .
 
 Debido al amplio rango de los datos , encontramos oficinas desde 200€ hasta 350.000€ , decidimos abordar el problema dividiendo los dataset en 3 tamaños; oficinas pequeñas de < 200m ,oficinas medianas de 200-800m y oficinas grandes de <800m.>>
 
