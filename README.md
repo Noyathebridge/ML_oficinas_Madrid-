@@ -8,4 +8,4 @@ Vamos a usar las librerias ; pandas , numpy , seaborn,matplotlib, scikit-learn ,
 Los modelos que vamos a probar son Linear Regression , Decission Tree Regression , Gradient descendent y XG Boost regressor.
 
 
-![Geolocalizacion oferta  oficinas MAD y BCN por tamaño.png](/imagenes/"Geolocalizacion oferta  oficinas MAD y BCN por tamaño.png ")
+![Geolocalizacion oferta  oficinas MAD y BCN por tamaño.png](https://github.com/Noyathebridge/ML_oficinas_Madrid-/blob/main/imagenes/Geolocalizacion%20oferta%20%20oficinas%20MAD%20y%20BCN%20por%20tama%C3%B1o.png)
